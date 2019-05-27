@@ -3,12 +3,12 @@
 ## Q.1) Suppose that Gammastack is organizing a Corporate Premier League (cricket). **You have to design the database schema for the management of this premier league.**
 - **There are multiple teams in the tournament.**
 - **Each team must have 11 players.**
-- **Each team must consist of:**
-- **Exactly one wicket-keeper**
-- **Exactly one captain**
-- **At least four batsmen**
-- **At least four bowlers**
-- **A team can have one vice-captain too (optional).**
+  - **Each team must consist of:**
+  - **Exactly one wicket-keeper**
+  - **Exactly one captain**
+  - **At least four batsmen**
+  - **At least four bowlers**
+  - **A team can have one vice-captain too (optional).**
 - **There should be a schedule for the tournament which defines the dates, venues and teams for the matches to be held**
 - **Top four teams from the league stage would qualify for the semi-finals and the final match will be played between the winners of the semi-finals.**
 - **Each team must face all the other teams at least once in the league stage.**
@@ -70,3 +70,5 @@
 ***
 ***
 
+readme.md
+Displaying readme.md.
