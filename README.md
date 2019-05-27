@@ -59,7 +59,7 @@
 
 ***
 ***
-## Q2 Little Charlie loves chocolate. He frequently goes to his favorite store, Willy Wonka’s Chocolate House, to buy them. They are having a promotion at the store where 2 wrappers of chocolate can be exchanged for one chocolate ( now that's some offer !!) So for a X amount of money that Charlie initially has, **find the _final number_ of chocolates that Charlie gets to eat.**
+## Q2 Little Charlie loves chocolate. He frequently goes to his favorite store, Willy Wonka’s Chocolate House, to buy them. They are having a promotion at the store where 2 wrappers of chocolate can be exchanged for one chocolate ( now that's some offer !!) So for a X amount of money that Charlie initially has, **find the _final number_ of chocolates that Charlie gets to eat considering the cost of one chocolate is 2.**
 
 ## For a better understanding please refer the example below where the initial amount of money that Charlie has is 15.
 
